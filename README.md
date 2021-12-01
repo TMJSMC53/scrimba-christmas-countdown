@@ -1,5 +1,3 @@
-# scrimba-christmas-countdown
-
 # Scrimba Christmas Countdown clock
 
 This is a solution to the Scrimba #JavaScriptmas challenge in which we must complete 1 JavaScript challenge each day until Christmas Eve. Scrimba provided the html 5 and css mark up. All I had to do was create the JS part of it. 
