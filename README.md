@@ -23,7 +23,7 @@ Users should be able to:
 
 - See the amount of days left until Christmas displayed on the screen
 - When Christmas arrives, users will see a special message
-- 
+
 ### Links
 
 - Live Site URL: 
