@@ -4,7 +4,7 @@ const timeLeft = document.querySelector(".time-left");
 
 function renderCountdown() {
   let x = setInterval(function () {
-    const christmas = 25;
+    const christmas = 24;
     // Task:
     // - Get today's date (you only need the day).
     const currentDate = new Date();
